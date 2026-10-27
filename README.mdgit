@@ -1,0 +1,1 @@
+# cd-test initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/jsmith1611/cd-test.gitgit push -u origin main
